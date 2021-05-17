@@ -15,10 +15,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import model.Users;
 
-/**
- *
- * @author sontriplelift
- */
 public class ServletManagerUser extends HttpServlet {
 
     /**

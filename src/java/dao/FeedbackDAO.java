@@ -12,10 +12,6 @@ import java.util.ArrayList;
 import java.util.List;
 import model.Feedback;
 
-/**
- *
- * @author sontriplelift
- */
 public class FeedbackDAO extends DBContext{
     
     public void insertFeedback(String username, String email, String phone, String content){

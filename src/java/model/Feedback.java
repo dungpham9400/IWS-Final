@@ -5,10 +5,6 @@
  */
 package model;
 
-/**
- *
- * @author sontriplelift
- */
 public class Feedback {
     public String fname;
     public String fmail;

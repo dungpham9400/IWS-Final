@@ -3,12 +3,29 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/shop.jsp</file>
-            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/account.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/src/java/servlet/ServletManagerCategory.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/about.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/myorder.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/src/java/servlet/HomeServlet.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/src/java/dao/AccountDAO.java</file>
             <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/updateproduct.jsp</file>
             <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/nbproject/project.xml</file>
-            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/manageruser.jsp</file>
             <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/addcategory.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/updatecategory.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/managercategory.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/viewfeedback.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/shop.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/src/java/servlet/ServletLogin.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/src/java/servlet/ServletAddCategory.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/managerproduct.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/account.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/profile.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/contact.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/trangchu.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/managerorder.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/src/java/servlet/ServletProduct.java</file>
             <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/categoryproduct.jsp</file>
         </group>
     </open-files>

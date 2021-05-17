@@ -5,10 +5,6 @@
  */
 package model;
 
-/**
- *
- * @author sontriplelift
- */
 public class Order extends Product{
     private int orderID;
     private int quantity;

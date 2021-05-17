@@ -267,9 +267,9 @@
                 <div class="col-sm-4 hidden-xs sslCertified" id="social">
                     <h6>Connect</h6>
                     <h6>
-                    <a href="https://www.facebook.com/son.triplelift.1309/"> <i class="fa fa-facebook"></i></a>   
-                    <a href="https://www.facebook.com/son.triplelift.1309/"> <i class="fa fa-twitter"></i></a>    
-                    <a href="https://www.instagram.com/sontriplelift13/"> <i class="fa fa-instagram"></i></a>   
+                    <a href="https://www.facebook.com/oohsehunbest/"> <i class="fa fa-facebook"></i></a>   
+                    <a href="https://www.facebook.com/oohsehunbest/"> <i class="fa fa-twitter"></i></a>    
+                    <a href="https://www.instagram.com/ohsehun_best/"> <i class="fa fa-instagram"></i></a>   
                     </h6>
                 </div>
                 <div class="col-sm-4">
@@ -286,7 +286,7 @@
             <div class="smallprint">
                <a href="trangchu.jsp" class="footerLogo" style="background:url(img/logo5.png);"></a> 
                <p class="pull-right"><a href="#" class="btn btn-default btn-backToTop"><i class="fa fa-chevron-up"></i></a></p>
-               <p class = "footerCredits"> <span class="current-year" style="margin-left: 50px">©2021</span> Drinkstore <i>·</i> <a href=''>Powered by Viet-Son-Huyen-Dung-Hang-Chung</a></p>
+               <p class = "footerCredits"> <span class="current-year" style="margin-left: 50px">©2021</span> DrinkStore <i>·</i> <a href=''>Powered by Huy-Duc-Dung-Ha</a></p>
             </div>
         </footer>
         <script src="https://kit.fontawesome.com/e06505cf69.js" crossorigin="anonymous"></script>
