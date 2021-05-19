@@ -15,10 +15,6 @@ import java.util.logging.Logger;
 import model.Users;
 
 
-/**
- *
- * @author sontriplelift
- */
 public class AccountDAO extends DBContext{
     //login
     public Users getAccount(String username, String password){

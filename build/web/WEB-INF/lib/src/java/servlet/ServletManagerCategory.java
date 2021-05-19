@@ -15,10 +15,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import model.Category;
 
-/**
- *
- * @author sontriplelift
- */
 public class ServletManagerCategory extends HttpServlet {
 
     /**

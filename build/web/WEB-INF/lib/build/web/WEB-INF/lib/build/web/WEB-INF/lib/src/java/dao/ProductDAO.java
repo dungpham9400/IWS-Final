@@ -15,10 +15,6 @@ import java.util.logging.Logger;
 import model.Category;
 import model.Product;
 
-/**
- *
- * @author sontriplelift
- */
 public class ProductDAO extends DBContext{
     public List<Product> getListProduct(int pageIndex) throws SQLException {
         List<Product> list = new ArrayList<>();

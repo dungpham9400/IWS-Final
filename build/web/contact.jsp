@@ -173,8 +173,8 @@
                 </div>
                 <div class="col-sm-5">
                     <p style="text-align: center; font-size: 20px">More details about us</p>
-                    <i class="fa fa-phone"></i>(+84) 379855340<br>
-                    <i class="fa fa-envelope"></i>1801040181@s.hanu.edu.vn<br>
+                    <i class="fa fa-phone"></i>(+84) 379662226<br>
+                    <i class="fa fa-envelope"></i>1801040034@s.hanu.edu.vn<br>
                     <i class="fa fa-address-book"></i>Hanoi University, Ha Noi, Viet Nam<br>
                 </div>
             </div>

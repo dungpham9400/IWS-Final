@@ -18,10 +18,6 @@ import javax.servlet.http.HttpSession;
 import model.Category;
 import model.Product;
 
-/**
- *
- * @author sontriplelift
- */
 public class ServletShop extends HttpServlet {
 
     /**

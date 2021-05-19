@@ -15,10 +15,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import model.Product;
 
-/**
- *
- * @author sontriplelift
- */
 public class ServletSearch extends HttpServlet {
 
     /**

@@ -5,10 +5,6 @@
  */
 package model;
 
-/**
- *
- * @author sontriplelift
- */
 public class Product {
     private String id;
     private String name;

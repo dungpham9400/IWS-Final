@@ -15,10 +15,6 @@ import java.util.logging.Logger;
 import model.Category;
 import model.Category;
 
-/**
- *
- * @author sontriplelift
- */
 public class CategoryDAO extends DBContext{
     public List<Category> getAllCategories(){
         String sql="select * from Categories";

@@ -16,10 +16,6 @@ import javax.servlet.http.HttpSession;
 import model.Category;
 import model.Product;
 
-/**
- *
- * @author sontriplelift
- */
 public class ServletUpdateProduct extends HttpServlet {
 
     /**

@@ -13,10 +13,6 @@ import java.util.List;
 import model.Order;
 import model.Users;
 
-/**
- *
- * @author sontriplelift
- */
 public class OrderDAO extends DBContext{
     public List<Order> getOrder(String username){
         List<Order> list = new ArrayList();

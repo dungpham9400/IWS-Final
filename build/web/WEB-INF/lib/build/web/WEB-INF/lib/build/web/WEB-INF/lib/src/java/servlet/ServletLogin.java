@@ -16,10 +16,6 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import model.Users;
 
-/**
- *
- * @author sontriplelift
- */
 public class ServletLogin extends HttpServlet {
 
     /**

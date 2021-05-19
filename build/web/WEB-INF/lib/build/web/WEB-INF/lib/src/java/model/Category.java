@@ -5,10 +5,6 @@
  */
 package model;
 
-/**
- *
- * @author sontriplelift
- */
 public class Category {
     private int catID;
     private String catname;

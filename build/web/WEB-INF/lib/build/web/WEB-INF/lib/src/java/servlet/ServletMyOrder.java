@@ -17,10 +17,6 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import model.Order;
 
-/**
- *
- * @author sontriplelift
- */
 public class ServletMyOrder extends HttpServlet {
 
     /**
