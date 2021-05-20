@@ -4,12 +4,17 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/myorder.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/account.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/contact.jsp</file>
             <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/src/java/model/Order.java</file>
             <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/src/java/dao/OrderDAO.java</file>
             <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/src/java/dao/AccountDAO.java</file>
             <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/product.jsp</file>
             <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/src/java/model/Users.java</file>
             <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/src/java/dao/ProductDAO.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/manageruser.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/web/buy.jsp</file>
+            <file>file:/C:/Users/Admin/Downloads/Project_DrinkStore/Project_DrinkStore/src/java/dao/DBContext.java</file>
         </group>
     </open-files>
 </project-private>
